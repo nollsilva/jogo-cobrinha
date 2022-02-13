@@ -1,0 +1,25 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: cadetblue;
+}
+
+.texto {
+    background-color: green;
+    color: black;
+    font-size: 50px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 3px;
+    border-style: outset;
+    border-color: greenyellow;
+}
+
+.quadro {
+    border-style: double;
+    border-color: green;
+}
